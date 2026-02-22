@@ -26,4 +26,7 @@ After the initial food web is created, the user can interact with a menu to expa
 
 <img width="340" height="286" alt="Screenshot 2026-02-22 at 2 51 05 PM" src="https://github.com/user-attachments/assets/970cc4fb-d03a-4a38-bb46-ee74423f3481" />
 
+If d is entered, the program displays an updated analysis of the current food web and its characteristics.
+
+<img width="233" height="407" alt="Screenshot 2026-02-22 at 3 04 15 PM" src="https://github.com/user-attachments/assets/2e24c2f4-9956-480c-b0c1-90b5e01be863" />
 
