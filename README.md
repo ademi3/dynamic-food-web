@@ -9,7 +9,7 @@ gcc main.c -o main
 
 Step #2 (Run the Program):
 
-./main
+./main  
 
 
 Program walkthrough (with screenshots):
