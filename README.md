@@ -24,4 +24,6 @@ The user enters pairs of organism indices to define predator-prey relationships,
 
 After the initial food web is created, the user can interact with a menu to expand the ecosystem, add new predator-prey relationships, remove organisms, or display updated characteristics until choosing to quit the program. The screenshot below shows a new organism being added (bear), and a new predator-prey relation (bear eats fox).
 
-<img width="258" height="136" alt="Screenshot 2026-02-22 at 2 43 54 PM" src="https://github.com/user-attachments/assets/dc5ab6b1-0fa0-4403-86de-9c22d96f937e" />
+<img width="340" height="286" alt="Screenshot 2026-02-22 at 2 51 05 PM" src="https://github.com/user-attachments/assets/970cc4fb-d03a-4a38-bb46-ee74423f3481" />
+
+
