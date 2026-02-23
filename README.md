@@ -12,7 +12,7 @@ gcc main.c -o main
 ./main  
 
 
-Program walkthrough (with screenshots):
+**Program walkthrough (with screenshots):**
 
 The user is prompted to enter the names of organisms one at a time to construct the initial food web, continuing until they type DONE to signal completion.
 
