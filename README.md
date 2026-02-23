@@ -3,11 +3,11 @@ modify, and analyze an ecosystem through a command-line interface.
 
 How to run the project:
 
-Step #1 (Compile the Program):
+**Step #1 (Compile the Program):**
 
 gcc main.c -o main
 
-Step #2 (Run the Program):
+**Step #2 (Run the Program):**
 
 ./main  
 
